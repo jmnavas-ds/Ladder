@@ -210,13 +210,7 @@ Ladder draws from a body of interconnected ideas about autonomous optimization, 
 
 ## Acknowledgments
 
-Ladder draws direct inspiration from Andrej Karpathy's thinking over the past several years.
-
-His [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) essay articulated the shift from hand-written logic to learned, data-driven systems — and the implications for how we build and verify software. His insistence that *outputs must be verifiable* is foundational to everything Ladder does: the hypothesis → experiment → result pipeline only works if results can be checked.
-
-More recently, his work on autonomous research automation — the idea that AI can not only assist with research but run the research loop itself — is exactly what Ladder is trying to structure and generalize. The pipeline isn't just for humans anymore.
-
-These ideas have been running in the background of Ladder's design for years. Thank you, Andrej.
+I've been thinking about autonomous optimization loops for a long time, but Andrej Karpathy has been a continuous source of inspiration along the way. His [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) framing — the shift from hand-written logic to learned systems — helped sharpen how I think about verifiability and what it means for outputs to be checkable. His more recent work on autonomous research automation resonates deeply with what Ladder is trying to do: structure the creative loop so it can run on its own.
 
 → [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
 → [@karpathy on X](https://x.com/karpathy)
